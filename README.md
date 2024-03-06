@@ -27,11 +27,11 @@ npm i hardhat --dotenv
 
 ## Setup
 
-Touch sendnative.js
-Input private key using your private key
-Input contract adress
-Input receiver adress
-Input sender adress
+1.Touch sendnative.js
+2.Input private key using your private key
+3.Input contract adress
+4.Input receiver adress
+5.Input sender adress
 
 
 ## Usage
